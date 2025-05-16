@@ -1,0 +1,28 @@
+Record ID,Artist,Title,Medium,Genre,Purchase Date
+Frnk01,Frank Ocean,Pyramids,Tape,Rap,2013-08-08
+Frnk02,Frank Ocean,Sweet Life,Vinyl,Rap,2015-06-07
+Frnk03,Frank Ocean,Swim Good,Vinyl,Rap,2019-10-30
+MJ01,Michael Jackson,Rock With You,CD,Pop,1982-01-01
+MJ02,Michael Jackson,Thriller,Vinyl,Pop,1985-11-22
+MJ03,Michael Jackson,Billie Jean,CD,Pop,1994-02-18
+Zep01,Led Zepellin,Stairway To Heaven,Vinyl,Rock,2005-08-19
+Zep02,Led Zepellin,Immigrant Song,CD,Rock,2007-07-16
+Zep03,Led Zepellin,Whole Lotta Love,Tape,Rock,2007-06-13
+Beat01,The Beatles,Yesterday,Vinyl,Rock,2004-03-03
+Beat02,The Beatles,Help!,Tape,Rock,1979-07-02
+Beat03,The Beatles,Here Comes The Sun,Tape,Rock,1970-12-16
+BIG01,The Notorious B.I.G,Big Poppa,CD,Rap,2012-07-16
+BIG02,The Notorious B.I.G,Hypnotize,CD,Rap,1999-06-26
+BIG03,The Notorious B.I.G,Mo Money Mo Problems,Vinyl,Rap,2001-08-19
+Hrt01,Heart,Stairway To Heaven,Tape,Rock,2006-06-17
+Hrt02,Heart,Barracuda,CD,Rock,2002-02-22
+Hrt03,Heart,Alone,Tape,Rock,2013-10-07
+Trav01,Travis Scott,Goosebumps,CD,Rap,2017-09-27
+Trav02,Travis Scott,Skeletons,CD,Rap,2023-01-11
+Trav03,Travis Scott,SICKO MODE,Vinyl,Rap,2018-09-15
+Que01,Queen,Bohemian Rhapsody,Tape,Rock,1994-05-13
+Que02,Queen,Killer Queen,Vinyl,Rock,1975-07-22
+Que03,Queen,Don't Stop Me Now,CD,Rock,1981-02-09
+Gamb01,Childish Gambino,Les,CD,Rap,2014-04-04
+Gamb02,Childish Gambino,Redbone,Vinyl,Rap,2024-09-25
+Gamb03,Childish Gambino,This Is America,CD,Rap,2020-03-20

@@ -1,0 +1,9 @@
+CustomerID,SubscriptionType,StartDate,EndDate
+olvr,Premium,2021-04-04,2027-07-07
+amrh,Basic,2020-08-08,2030-08-17
+mthw,Basic,2018-10-28,2026-01-15
+lili,Premium,2019-12-23,2031-11-19
+toby,Premium,2019-07-11,2025-03-15
+jeny,Basic,2020-05-20,2028-04-13
+timo,Basic,2018-01-01,2025-02-03
+juli,Premium,2020-01-01,2025-01-01
